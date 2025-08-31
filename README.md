@@ -27,4 +27,4 @@ You can also read the notes directly here:
 - Explore the mentioned tools and try them in real-world case studies.  
 - Clone this repo if you’d like to keep a local copy:  
   ```bash
-  git clone https://github.com/YOUR-USERNAME/OSINT-Fundamentals.git
+  git clone https://github.com/Inam-q/OSINT-Fundamentals.git
